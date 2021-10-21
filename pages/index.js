@@ -29,19 +29,12 @@ const pages = () => {
             </Box>
             <Section delay={0.1}>
                 <Heading as="h3" variant="section-title">
-                    Work
+                    About
                 </Heading>
                 <Paragraph>
-                Takuya is a freelance and a full-stack developer based in Osaka with a
-                passion for building digital services/stuff he wants. He has a knack
-                for all things launching products, from planning and designing all the
-                way to solving real-life problems with code. When not online, he loves
-                hanging out with his camera. Currently, he is living off of his own
-                product called{' '}
-                <NextLink href="/works/inkdrop">
-                    <Link>Inkdrop</Link>
-                </NextLink>
-                .
+                Saivishwatej Reddy Chitta is a software engineer with 0.5+ years of experience 
+                in commercial application development, QA Automation and Manual Testing. with Hands-on 
+                expertise in working with the Java, Spring Boot, Couchbase, Kafka, docker,  Junit, TestNG, Mockito and  Rest Assured.
                 </Paragraph>
                 <Box align="center" my={4}>
                     <NextLink href="/works">
